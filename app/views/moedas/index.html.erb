@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<h1><%= Coin.model_name.human(count: @moedas.count)%></h1>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <td><%= @moedas.human_attribute_name(:description) %></th>
+      <td><%= @moedas.human_attribute_name(:acronym) %></th>
+      <td><%= @moedas.human_attribute_name(:url_image_string) %></th>
+      
+      <td colspan="4"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @moedas.each do |moeda| %>
+      <tr>
+        <td><%= moeda.description %></td>
+        <td><%= moeda.acronym %></td>
+        <td> <%= image_tag moeda.url_image_string, width:25, height:25 %> </td>
+
+        <td><%= link_to t('Links.show'), moeda %></td>
+        <td><%= link_to t('Links.edit'), edit_moeda_path(moeda), data: { confirm: 'Você está presta a realizar alteração, deseja continuar ?' } %></td>
+        <td><%= link_to t('Links.delete'), moeda, method: :delete, data: { confirm: t('message.confirm') } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to t('new.coin'), new_moeda_path,class:"btn bt-primary" %>
+<%= link_to t('links.back'),welcome_index_path,class:"btn bt-primary"  %>

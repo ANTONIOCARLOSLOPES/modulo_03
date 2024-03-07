@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" href="https://th.bing.com/th/id/OIP.hQXjXX0C9KcLBWyWYODhYwHaE7?rs=1&pid=ImgDetMain" sizes="16x16" type="image/png">
+    <title>CrypoWallet</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag   params[:controller] , media: 'all', 'data-turbolinks-track': 'reload' %>
+    
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag params[:controller], 'data-turbolinks-track': 'reload' %>
+  </head>
+
+
+  <body>
+    
+   <div class ="container-fluid">
+    <ul class="nav justify-content-end">
+     <li>
+      <%= link_to 'HOME', root_path,  class:"nav-link"  %>
+     </li>
+     <li class "nav-item">
+      <%=link_to 'Português', root_path(locale: 'pt-BR'),class:"nav-link" %>
+     </li>
+     <li class "nav-item">
+      <%=link_to 'English',root_path(locale: 'en'),class:"nav-link" %> 
+      </li>
+     </ul>
+         <%= yield %>
+
+<style>
+
+ 
+    td{margin-top:25px;
+      list-style:none;
+
+
+    }
+    li{
+      margin-top:25px;
+      list-style:none;
+    }
+    p{
+      margin-top:25px;
+      list-style:none;
+    }
+    a{
+    border: solid 0px blue!important;
+    border-radius: 6px!important;
+    color: white!important;
+    background-color: #0d6efd !important;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease !important;
+    padding:10px !important;
+    margin-top:50px !important;
+    text-decoration: none !important;
+}
+    td{
+      padding:4px 10px !important;
+      border:solid 1px #dfdfdf !important;
+      }
+   
+    a:hover{
+    background-color: #0b5ed7 !important;
+    color: #fff!important;
+    transform: scale(1.2)
+
+}
+   </Style> 
+  
+</div>
+
+</body>
+</html>

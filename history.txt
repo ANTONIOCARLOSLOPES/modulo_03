@@ -1,0 +1,1906 @@
+    1  cd /vagrant
+    2  ls
+    3  rails s -b 0.0.0.0
+    4  exit
+    5  gem install rails
+    6  rails -v
+    7  cd /vagrant
+    8  rails -v
+    9  gem install rails
+   10  snap install ruby
+   11  sudo apt-get install ruby
+   12  gem install rails
+   13  apt-get instal gem rails
+   14  ls
+   15  vagrant halt
+   16  ls
+   17  apt-get instal rails 
+   18  apt-get instal gem rails 
+   19  apt-get install gem rails 
+   20  ruby -v
+   21  rails -v
+   22  apt install ruby-railties
+   23  apt install ruby-rails
+   24  root
+   25  su
+   26  apt-get install gem rails 
+   27  vagrant halt
+   28  su
+   29  apt-get install gem rails 
+   30  apt update
+   31  sudo apt update
+   32  sudo apt install ruby-full
+   33  ruby -v
+   34  irb
+   35  exit
+   36  apt-get instal gem rails
+   37  cd meu-projeto/
+   38  cd meu_projeto/
+   39  gem install rails
+   40  sudo su
+   41  cd /c/projetos/curso-rails
+   42  cd /c/projetos/
+   43  cd curso-rails
+   44  cd 
+   45  c
+   46  /Projetos
+   47  sudo su
+   48  cd \c
+   49  cd 
+   50  c:Projetos
+   51  c:\ projetos\curso-rails
+   52  c:\ projetoscd meu_projeto
+   53  cd Meu_projetos
+   54  c:\ projetos\curso-rails
+   55  cd Meu_projetos
+   56  c:\ projetos
+   57  c..
+   58  cd..
+   59  cd ..
+   60  c/Projetos
+   61  cd ..c
+   62  dir
+   63  cd ..
+   64  cd ...
+   65  cd ..
+   66  clear
+   67  cd: /c/Projetos/
+   68  /c/Projetos/
+   69  c/Projetos/
+   70  c:\ projetos\curso-rails
+   71  vagrant up
+   72  exit
+   73  cd /c/Projetos/
+   74  cd /c/Projetos
+   75  cd /c
+   76  /c/Projetos/
+   77  cd: /c/Projetos/
+   78  gem install rails -v 5.2.0
+   79  rails -v
+   80  ruby -v
+   81  rails new meu_Projeto
+   82  bundle install
+   83  pwd
+   84  gem update --system 3.2.3
+   85  sudo su
+   86  c..
+   87  c ..
+   88  pwd
+   89  rails new meu_Projeto
+   90  gem install bundler
+   91  sudo su
+   92  rails new meu_Projeto
+   93  gem update --system 3.2.3
+   94  sudo su
+   95  rails new meu_Projeto
+   96  sudo su
+   97  rails new meu_Projeto
+   98  bundle install
+   99  sudo su
+  100  vagrant halt
+  101  sudo su 
+  102  rails new meu_Projeto
+  103  gem list railties
+  104  gem install railties
+  105  sudo su
+  106  cd /vagrant
+  107  ls
+  108  exit
+  109  cd /vagrant
+  110  ls
+  111  rails new meu_projeto
+  112  bundle binstubs bundler
+  113  cd 
+  114  cd / meu_projeto
+  115  cd meu_projeto/
+  116  rails server 
+  117  exit
+  118  cd meu_projeto/
+  119  rvm list
+  120  rvm use ruby-2.5.1
+  121  sudo su
+  122  cd meu_projeto/
+  123  bundle install
+  124  rails server 
+  125  gem update --system 2.5.0
+  126  bundle install
+  127  rvm use ruby-3.0.0
+  128  bundle install
+  129  gem update --system 3.0.0
+  130  bundle install
+  131  find -s
+  132  find / -name / "ruby-gemset"
+  133  find / -name / ruby-gemset
+  134  find / -name  ruby-gemset
+  135  sudo su
+  136  rvm list
+  137  exit
+  138  rvm list
+  139  bundle install
+  140  bundle init
+  141  cd meu_projeto/
+  142  bundle init
+  143  bundle install
+  144  rvm use 2
+  145  bundle install
+  146  sudo apt update
+  147  sudo apt install ruby-full
+  148  ruby --version
+  149  bundle install
+  150  ruby --version
+  151  bundle install
+  152  ruby --version
+  153  sudo apt update
+  154  sudo apt upgrade
+  155  ruby --version
+  156  bundle install
+  157  gem -v
+  158  ruby 3.0.0
+  159  ruby -v
+  160  exit
+  161  bundle install
+  162  bundle info rails
+  163  raisl
+  164  gem install -v 6.1.4.4
+  165  cd meu_projeto/
+  166  rails server 
+  167  exit
+  168  cd / meu_projeto
+  169  cd: /c/Projetos/
+  170  c:\ projetos\curso-rails
+  171  c:\ projetos\curso-railsc:\ projetos\curso-rails
+  172  c:\ projetos\curso-rails
+  173  projetos\curso-rails
+  174  projetos\cursorails
+  175  cd / meu_projeto
+  176  cd meu_projeto/
+  177  exit
+  178  rails server 
+  179  cd / meu_projeto
+  180  cd meu_projeto/
+  181  rails server 
+  182  gem -v
+  183  pwd
+  184  rails -v
+  185  ruby -v
+  186  rvm -v
+  187  bundle install
+  188  bundle
+  189  rvm list
+  190  sudo su
+  191  cd meu_projeto/
+  192  rails server 
+  193  bundle install
+  194  rvm list
+  195  rvm list know
+  196  rvm list known
+  197  rvm list
+  198  cd meu_projeto
+  199  irb
+  200  touch ~/.irbrc
+  201  vim ~/.irbrc
+  202  irb
+  203  vagrant halt
+  204  sudo su
+  205  vagrant halt
+  206  rails s -b 0.0.0.0
+  207  rvm list
+  208  rails server 
+  209  rails s -b 0.0.0.0
+  210  cd meu_projeto/
+  211  rails s -b 0.0.0.0
+  212  bundle install 
+  213  rvm list
+  214  rvm use ruby-3.0.0 --default 
+  215  bundle install 
+  216  bundler install 
+  217  bundle install 
+  218  bundle install
+  219  c:\ projetos\curso-rails
+  220  bundle install
+  221  sudo su
+  222  c:\ projetos\curso-rails
+  223  cd meu_projeto
+  224  c:\ projetos\curso-rails
+  225  curso-rails
+  226  02_teste.rb
+  227  ruby 02_teste.rb
+  228  cd
+  229  ls
+  230  cd meu_projeto
+  231  ls
+  232  c:\ projetos\curso-rails
+  233  cd /c/projetos/curso-rails
+  234  cd curso-rails
+  235  cd /vagrant
+  236  cd curso-rails
+  237  ls
+  238  Modlulo_02
+  239  ruby Modlulo_02
+  240  ruby 02_Teste.rb
+  241  ls
+  242  cd meu_projeto/
+  243  ls
+  244  exit
+  245  ruby Modulo_02
+  246  cd Modulo_02
+  247  cd Modulo_02.rb[
+  248  cd Modulo_02.rb
+  249  cd Modulo_02/
+  250  cd /vagrant
+  251  cd Modulo_02.rb
+  252  cd Modulo_02/
+  253  ruby 02_Teste.rb
+  254  vagrant halt
+  255  exit
+  256  cd Modulo_02/
+  257  ruby 02_Teste.rb
+  258  cd Modulo_02.rb
+  259  cd /vagrant
+  260  cd Modulo_02.rb
+  261  cd Modulo_02/
+  262  ruby 02_Teste.rb
+  263  exit
+  264  cd /vagrant
+  265  ruby 01_Testeruby.rb
+  266  cd Modulo_02/
+  267  ruby 01_Testeruby.rb
+  268  ruby 02_Teste.rb
+  269  irb
+  270  ls
+  271  irb
+  272  vagrant halt
+  273  exit
+  274  cd Modulo_02/
+  275  cd Modulo_02.rb
+  276  irb
+  277  cd Modulo_02.rb
+  278  cd Modulo_02/
+  279  ruby 02_Teste.rb
+  280  ls
+  281  cd meu_projeto
+  282  cd Modulo_02/
+  283  exit
+  284  c:\Projetos\curso-rails\Modulo_02
+  285  cd Modulo_02
+  286  cd /vagrant
+  287  cd Modulo_02
+  288  ls
+  289  ruby 02_Teste.rb
+  290  ruby app.rb
+  291  cd Modulo_02
+  292  ruby app.rb
+  293  ruby 02_Teste.rb
+  294  ruby pagamento.rb
+  295  ruby app.rb
+  296  Constantes
+  297  cd Modulo_02\Constantes
+  298  \Constantes
+  299  ls
+  300  \Constantes
+  301  cd Constantes
+  302  ruby app.rb
+  303  ruby pagamento.rb
+  304  cd Modulo_02\Constantes
+  305  cd Constantes
+  306  ls
+  307  exit
+  308  /vagrant
+  309  ls
+  310  Modulo_02\Constantes
+  311  cd Modulo_02\Constantes
+  312  /vagrant
+  313  cd Constantes
+  314  cd Modulo_02\Constantes
+  315  cd Constantes
+  316  cd Modulo_02
+  317  cd meu_projeto/
+  318  cd Modulo_02
+  319  cd Constantes
+  320  cd meu_projeto/
+  321  cd Modulo_02\Constantes
+  322  exit
+  323  cd \ vagrant
+  324  /vagrant
+  325  ls
+  326  cd /vagrant
+  327  cd Modulo_02\Constantes
+  328  cd Modulo_02
+  329  ls
+  330  cd Modulo_02\Constantes
+  331  cd Constantes
+  332  ls
+  333  ruby app.rb
+  334  ls
+  335  ruby app.rb
+  336  ruvy pagamentos.rb
+  337  ruby pagamentos.rb
+  338  ruvy pagamentos.rb
+  339  ruby pagamentos.rb
+  340  ruby app.rb
+  341  ruby pagamentos.rb
+  342  ls
+  343  cd meu_projeto/
+  344  ruby pagamentos.rb
+  345  cd Modulo_02\Constantes
+  346  cd Modulo_02
+  347  ls
+  348  cd Modulo_02\Constantes
+  349  cd \ vagrant
+  350  ls
+  351  cd Modulo_02
+  352  /vagrant
+  353  cd Modulo_02.rb
+  354  cd Modulo_02
+  355  cd /vagrant
+  356  ls
+  357  cd Modulo_02
+  358  ls
+  359  ruvy pagamentos.rb
+  360  ruby app.rb
+  361  ls
+  362  01_Testeruby.rb
+  363  01_testeruby.rb
+  364  ls
+  365  cd Constantes
+  366  01_Testeruby.rb
+  367  01_testeruby.rb
+  368  ls
+  369  ruvy pagamentos.rb
+  370  ruby app.rb
+  371  ls
+  372  do-release-upgrade
+  373  cd Modulo_02
+  374  cd /vagrant
+  375  rails _5.2._ new crypto_wallet
+  376  rails _5.2_ new crypto_wallet
+  377  /workspace
+  378  cd /workspace
+  379  ls
+  380  cd workspace
+  381  cd Modulo_02
+  382  rails _5.2_ new crypo_wallet
+  383  gem install rails -v 5.2
+  384  sudo su
+  385  exit
+  386  cd /workspace
+  387  /vagrant
+  388  /vagrant/
+  389  ls
+  390  cd /vagrant
+  391  cd /modulo_03
+  392  ls
+  393  cd /modulo_02
+  394  ls
+  395  cd Modulo_02
+  396  cd modulo_03
+  397  rails _5.2_ new crypo_wallet
+  398  rails -v
+  399  rails _5.2.8.1_ new crypo_wallet
+  400  rails _5.2_ new crypo_wallet
+  401  bundle exec spring binstub --all
+  402  gem 'sqlite3', '~> 1.3', '>= 1.3.10'
+  403  bundle install 
+  404  sudo su
+  405  rvm install 2.7.0
+  406  rbenv install 2.7.0
+  407  apt install rbenv
+  408  sudo su
+  409  rvm use 2.7.0
+  410  rvm install "ruby-2.7.0"
+  411  sudo su 
+  412  rails
+  413  ls
+  414  cd crypo_wallet 
+  415  rails
+  416  rails s
+  417  rails server 
+  418  ls
+  419  exit
+  420  rails server 
+  421  bundle install 
+  422  cd /vagrant
+  423  ls
+  424  cd Modulo_02
+  425  cd modulo_03
+  426  rails new teste_postgres --database=postgresql
+  427  bundle exec spring binstub --all
+  428  bundle install
+  429  sudo gem update --system --no-user-install
+  430  bundle install
+  431  ls
+  432  exit
+  433  ls
+  434  bundler install
+  435  ls
+  436  cd /vagrant
+  437  cd modulo_02
+  438  cd modulo_03
+  439  rails server
+  440  gem install bundler
+  441  sudo su 
+  442  gem -v
+  443  bunlde update
+  444  rails server
+  445  ls
+  446  cd crypto_wallet
+  447  ls
+  448  cd crypo_wallet
+  449  rails generate scaffold Coin description:string 
+  450  rails g scaffold Coin description;string acronum:string url_image:String
+  451  rails db
+  452  rails db:create
+  453  rails db:migrate
+  454  rails db
+  455  rails s
+  456  exit
+  457  cd /vagrant
+  458  cd modulo_02
+  459  rails sever
+  460  cd modulo_03
+  461  rails server
+  462  rails s
+  463  rails server
+  464  rails -v
+  465  cd crypo_wallet
+  466  rails s
+  467  exit
+  468  rails s
+  469  cd /vagrant
+  470  rails s
+  471  ls
+  472  cd /meu_projeto
+  473  cd meu_projeto
+  474  rails s
+  475  //localhost:3000
+  476  rails s
+  477  exit[
+  478  exit
+  479  apt list --upgradable
+  480  rails server
+  481  cd meu_projeto
+  482  rails server
+  483  exit
+  484  apt 
+  485  apt-get update
+  486  bunlde update
+  487  cd /vagrant
+  488  rails server
+  489  cd modulo_02
+  490  rails server
+  491  cd modulo_03
+  492  rails server
+  493  rails s
+  494  rails new ~/Code/Ruby/weblog
+  495  rails s
+  496  rails server 
+  497  rails -v
+  498  rails server -h
+  499  source 'https://rubygems.org'
+  500  exit
+  501  gem install raisl 
+  502  gem install rails -v 5.2.0
+  503  sudo su 
+  504  eict
+  505  exit
+  506  rails server -h
+  507  cd modulo_02
+  508  rails server -h
+  509  rails server
+  510  cd modulo_03
+  511  rails server
+  512  cd crypo_wallet
+  513  rails server
+  514  rails server -h
+  515  rails server -p
+  516  rails -v
+  517  rails server 
+  518  exit
+  519  cd vagrant/
+  520  cd /vagrant
+  521  ls
+  522  cd modulo_02
+  523  ls
+  524  cd modulo_03
+  525  ls
+  526  rails s
+  527  rails s -b 0.0.0.0
+  528  rails -
+  529  rails -help
+  530  exit
+  531  cd \vagrant
+  532  cd /vagrant
+  533  cd modulo_02
+  534  cd modulo_03
+  535  cd crypo_wallet
+  536  rails s -b 0.0.0.0
+  537  bundler
+  538  bundler 
+  539  ruby -v
+  540  bundler
+  541  bundler  update
+  542  bundler update
+  543  rails server
+  544  rails server -b 0.0.0.0
+  545  rails s -b 0.0.0.0
+  546  exit
+  547  cd /vagrant
+  548  cd modulo_02
+  549  cd modulo_03
+  550  cd crypo_wallet
+  551  rails s -b 0.0.0.0
+  552  bundle install
+  553  sudo su 
+  554  cd /vagrant
+  555  cd modulo_02
+  556  cd modulo_03
+  557  cd crypo_wallet
+  558  rails s -b 0.0.0.0
+  559  bundler install
+  560  bundle install
+  561  rails s -b 0.0.0.0
+  562  kill -9 7772
+  563  rails s -b 0.0.0.0
+  564  bundle install
+  565  rails s -b 0.0.0.0
+  566  kill -9 7772
+  567  kill -9 7804
+  568  rails s -b 0.0.0.0
+  569  exit
+  570  vagrant halt
+  571  exit
+  572  cd /vagrant
+  573  cd modulo_02
+  574  cd modulo_03
+  575  cd crypo_wallet
+  576  rails s -b 0.0.0.0
+  577  RAILS_ENV=production rails s
+  578  rails s =e production
+  579  rails s -e production
+  580  rails s -b 0.0.0.0
+  581  exit
+  582  Exit
+  583  exite
+  584  exit
+  585  cd crypo_wallet
+  586  cd modulo_02
+  587  cd /vagrant
+  588  cd crypo_wallet
+  589  cd modulo_02
+  590  cd modulo_03
+  591  cd crypo_wallet
+  592  rails s -b 0.0.0.0
+  593  rails g controller welcome index
+  594  rails s -b 0.0.0.0
+  595  ps -ef
+  596  kill -9 5378
+  597  ps -ef
+  598  kill -9 5420
+  599  ps -ef
+  600  rails s -b 0.0.0.0
+  601  ps -ef
+  602  ps -ef
+  603  kill -9 5493
+  604  kill -9 
+  605  rails s -b 0.0.0.0
+  606  rails s -b 0.0.0.0
+  607  ps -ef
+  608  rails s -b 0.0.0.0
+  609  rails g migration AddAcronymUrl_imagToCoins 
+  610  rails s -b 0.0.0.0
+  611  rails db:migrate
+  612  rails s -b 0.0.0.0
+  613  rails db:migrate
+  614  rails s -b 0.0.0.0
+  615  exit
+  616  cd /vagrant
+  617  cd modulo_02
+  618  cd modulo_03
+  619  cd crypo_wallet
+  620  rails s -b 0.0.0.0
+  621  rails db:migrate
+  622  rails s -b 0.0.0.0
+  623  rails -t db
+  624  rails -T db
+  625  rails db:migrate
+  626  rails db
+  627  rails generate scaffold Moedas description:string acronym:String url_image_string
+  628  rails s -b 0.0.0.0
+  629* 
+  630  rails s -b 0.0.0.0
+  631  bin/rails db:migrate RAILS_ENV=development
+  632  rails s -b 0.0.0.0
+  633  history
+  634  history >> history.txt
+    1  cd /vagrant
+    2  ls
+    3  rails s -b 0.0.0.0
+    4  exit
+    5  gem install rails
+    6  rails -v
+    7  cd /vagrant
+    8  rails -v
+    9  gem install rails
+   10  snap install ruby
+   11  sudo apt-get install ruby
+   12  gem install rails
+   13  apt-get instal gem rails
+   14  ls
+   15  vagrant halt
+   16  ls
+   17  apt-get instal rails 
+   18  apt-get instal gem rails 
+   19  apt-get install gem rails 
+   20  ruby -v
+   21  rails -v
+   22  apt install ruby-railties
+   23  apt install ruby-rails
+   24  root
+   25  su
+   26  apt-get install gem rails 
+   27  vagrant halt
+   28  su
+   29  apt-get install gem rails 
+   30  apt update
+   31  sudo apt update
+   32  sudo apt install ruby-full
+   33  ruby -v
+   34  irb
+   35  exit
+   36  apt-get instal gem rails
+   37  cd meu-projeto/
+   38  cd meu_projeto/
+   39  gem install rails
+   40  sudo su
+   41  cd /c/projetos/curso-rails
+   42  cd /c/projetos/
+   43  cd curso-rails
+   44  cd 
+   45  c
+   46  /Projetos
+   47  sudo su
+   48  cd \c
+   49  cd 
+   50  c:Projetos
+   51  c:\ projetos\curso-rails
+   52  c:\ projetoscd meu_projeto
+   53  cd Meu_projetos
+   54  c:\ projetos\curso-rails
+   55  cd Meu_projetos
+   56  c:\ projetos
+   57  c..
+   58  cd..
+   59  cd ..
+   60  c/Projetos
+   61  cd ..c
+   62  dir
+   63  cd ..
+   64  cd ...
+   65  cd ..
+   66  clear
+   67  cd: /c/Projetos/
+   68  /c/Projetos/
+   69  c/Projetos/
+   70  c:\ projetos\curso-rails
+   71  vagrant up
+   72  exit
+   73  cd /c/Projetos/
+   74  cd /c/Projetos
+   75  cd /c
+   76  /c/Projetos/
+   77  cd: /c/Projetos/
+   78  gem install rails -v 5.2.0
+   79  rails -v
+   80  ruby -v
+   81  rails new meu_Projeto
+   82  bundle install
+   83  pwd
+   84  gem update --system 3.2.3
+   85  sudo su
+   86  c..
+   87  c ..
+   88  pwd
+   89  rails new meu_Projeto
+   90  gem install bundler
+   91  sudo su
+   92  rails new meu_Projeto
+   93  gem update --system 3.2.3
+   94  sudo su
+   95  rails new meu_Projeto
+   96  sudo su
+   97  rails new meu_Projeto
+   98  bundle install
+   99  sudo su
+  100  vagrant halt
+  101  sudo su 
+  102  rails new meu_Projeto
+  103  gem list railties
+  104  gem install railties
+  105  sudo su
+  106  cd /vagrant
+  107  ls
+  108  exit
+  109  cd /vagrant
+  110  ls
+  111  rails new meu_projeto
+  112  bundle binstubs bundler
+  113  cd 
+  114  cd / meu_projeto
+  115  cd meu_projeto/
+  116  rails server 
+  117  exit
+  118  cd meu_projeto/
+  119  rvm list
+  120  rvm use ruby-2.5.1
+  121  sudo su
+  122  cd meu_projeto/
+  123  bundle install
+  124  rails server 
+  125  gem update --system 2.5.0
+  126  bundle install
+  127  rvm use ruby-3.0.0
+  128  bundle install
+  129  gem update --system 3.0.0
+  130  bundle install
+  131  find -s
+  132  find / -name / "ruby-gemset"
+  133  find / -name / ruby-gemset
+  134  find / -name  ruby-gemset
+  135  sudo su
+  136  rvm list
+  137  exit
+  138  rvm list
+  139  bundle install
+  140  bundle init
+  141  cd meu_projeto/
+  142  bundle init
+  143  bundle install
+  144  rvm use 2
+  145  bundle install
+  146  sudo apt update
+  147  sudo apt install ruby-full
+  148  ruby --version
+  149  bundle install
+  150  ruby --version
+  151  bundle install
+  152  ruby --version
+  153  sudo apt update
+  154  sudo apt upgrade
+  155  ruby --version
+  156  bundle install
+  157  gem -v
+  158  ruby 3.0.0
+  159  ruby -v
+  160  exit
+  161  bundle install
+  162  bundle info rails
+  163  raisl
+  164  gem install -v 6.1.4.4
+  165  cd meu_projeto/
+  166  rails server 
+  167  exit
+  168  cd / meu_projeto
+  169  cd: /c/Projetos/
+  170  c:\ projetos\curso-rails
+  171  c:\ projetos\curso-railsc:\ projetos\curso-rails
+  172  c:\ projetos\curso-rails
+  173  projetos\curso-rails
+  174  projetos\cursorails
+  175  cd / meu_projeto
+  176  cd meu_projeto/
+  177  exit
+  178  rails server 
+  179  cd / meu_projeto
+  180  cd meu_projeto/
+  181  rails server 
+  182  gem -v
+  183  pwd
+  184  rails -v
+  185  ruby -v
+  186  rvm -v
+  187  bundle install
+  188  bundle
+  189  rvm list
+  190  sudo su
+  191  cd meu_projeto/
+  192  rails server 
+  193  bundle install
+  194  rvm list
+  195  rvm list know
+  196  rvm list known
+  197  rvm list
+  198  cd meu_projeto
+  199  irb
+  200  touch ~/.irbrc
+  201  vim ~/.irbrc
+  202  irb
+  203  vagrant halt
+  204  sudo su
+  205  vagrant halt
+  206  rails s -b 0.0.0.0
+  207  rvm list
+  208  rails server 
+  209  rails s -b 0.0.0.0
+  210  cd meu_projeto/
+  211  rails s -b 0.0.0.0
+  212  bundle install 
+  213  rvm list
+  214  rvm use ruby-3.0.0 --default 
+  215  bundle install 
+  216  bundler install 
+  217  bundle install 
+  218  bundle install
+  219  c:\ projetos\curso-rails
+  220  bundle install
+  221  sudo su
+  222  c:\ projetos\curso-rails
+  223  cd meu_projeto
+  224  c:\ projetos\curso-rails
+  225  curso-rails
+  226  02_teste.rb
+  227  ruby 02_teste.rb
+  228  cd
+  229  ls
+  230  cd meu_projeto
+  231  ls
+  232  c:\ projetos\curso-rails
+  233  cd /c/projetos/curso-rails
+  234  cd curso-rails
+  235  cd /vagrant
+  236  cd curso-rails
+  237  ls
+  238  Modlulo_02
+  239  ruby Modlulo_02
+  240  ruby 02_Teste.rb
+  241  ls
+  242  cd meu_projeto/
+  243  ls
+  244  exit
+  245  ruby Modulo_02
+  246  cd Modulo_02
+  247  cd Modulo_02.rb[
+  248  cd Modulo_02.rb
+  249  cd Modulo_02/
+  250  cd /vagrant
+  251  cd Modulo_02.rb
+  252  cd Modulo_02/
+  253  ruby 02_Teste.rb
+  254  vagrant halt
+  255  exit
+  256  cd Modulo_02/
+  257  ruby 02_Teste.rb
+  258  cd Modulo_02.rb
+  259  cd /vagrant
+  260  cd Modulo_02.rb
+  261  cd Modulo_02/
+  262  ruby 02_Teste.rb
+  263  exit
+  264  cd /vagrant
+  265  ruby 01_Testeruby.rb
+  266  cd Modulo_02/
+  267  ruby 01_Testeruby.rb
+  268  ruby 02_Teste.rb
+  269  irb
+  270  ls
+  271  irb
+  272  vagrant halt
+  273  exit
+  274  cd Modulo_02/
+  275  cd Modulo_02.rb
+  276  irb
+  277  cd Modulo_02.rb
+  278  cd Modulo_02/
+  279  ruby 02_Teste.rb
+  280  ls
+  281  cd meu_projeto
+  282  cd Modulo_02/
+  283  exit
+  284  c:\Projetos\curso-rails\Modulo_02
+  285  cd Modulo_02
+  286  cd /vagrant
+  287  cd Modulo_02
+  288  ls
+  289  ruby 02_Teste.rb
+  290  ruby app.rb
+  291  cd Modulo_02
+  292  ruby app.rb
+  293  ruby 02_Teste.rb
+  294  ruby pagamento.rb
+  295  ruby app.rb
+  296  Constantes
+  297  cd Modulo_02\Constantes
+  298  \Constantes
+  299  ls
+  300  \Constantes
+  301  cd Constantes
+  302  ruby app.rb
+  303  ruby pagamento.rb
+  304  cd Modulo_02\Constantes
+  305  cd Constantes
+  306  ls
+  307  exit
+  308  /vagrant
+  309  ls
+  310  Modulo_02\Constantes
+  311  cd Modulo_02\Constantes
+  312  /vagrant
+  313  cd Constantes
+  314  cd Modulo_02\Constantes
+  315  cd Constantes
+  316  cd Modulo_02
+  317  cd meu_projeto/
+  318  cd Modulo_02
+  319  cd Constantes
+  320  cd meu_projeto/
+  321  cd Modulo_02\Constantes
+  322  exit
+  323  cd \ vagrant
+  324  /vagrant
+  325  ls
+  326  cd /vagrant
+  327  cd Modulo_02\Constantes
+  328  cd Modulo_02
+  329  ls
+  330  cd Modulo_02\Constantes
+  331  cd Constantes
+  332  ls
+  333  ruby app.rb
+  334  ls
+  335  ruby app.rb
+  336  ruvy pagamentos.rb
+  337  ruby pagamentos.rb
+  338  ruvy pagamentos.rb
+  339  ruby pagamentos.rb
+  340  ruby app.rb
+  341  ruby pagamentos.rb
+  342  ls
+  343  cd meu_projeto/
+  344  ruby pagamentos.rb
+  345  cd Modulo_02\Constantes
+  346  cd Modulo_02
+  347  ls
+  348  cd Modulo_02\Constantes
+  349  cd \ vagrant
+  350  ls
+  351  cd Modulo_02
+  352  /vagrant
+  353  cd Modulo_02.rb
+  354  cd Modulo_02
+  355  cd /vagrant
+  356  ls
+  357  cd Modulo_02
+  358  ls
+  359  ruvy pagamentos.rb
+  360  ruby app.rb
+  361  ls
+  362  01_Testeruby.rb
+  363  01_testeruby.rb
+  364  ls
+  365  cd Constantes
+  366  01_Testeruby.rb
+  367  01_testeruby.rb
+  368  ls
+  369  ruvy pagamentos.rb
+  370  ruby app.rb
+  371  ls
+  372  do-release-upgrade
+  373  cd Modulo_02
+  374  cd /vagrant
+  375  rails _5.2._ new crypto_wallet
+  376  rails _5.2_ new crypto_wallet
+  377  /workspace
+  378  cd /workspace
+  379  ls
+  380  cd workspace
+  381  cd Modulo_02
+  382  rails _5.2_ new crypo_wallet
+  383  gem install rails -v 5.2
+  384  sudo su
+  385  exit
+  386  cd /workspace
+  387  /vagrant
+  388  /vagrant/
+  389  ls
+  390  cd /vagrant
+  391  cd /modulo_03
+  392  ls
+  393  cd /modulo_02
+  394  ls
+  395  cd Modulo_02
+  396  cd modulo_03
+  397  rails _5.2_ new crypo_wallet
+  398  rails -v
+  399  rails _5.2.8.1_ new crypo_wallet
+  400  rails _5.2_ new crypo_wallet
+  401  bundle exec spring binstub --all
+  402  gem 'sqlite3', '~> 1.3', '>= 1.3.10'
+  403  bundle install 
+  404  sudo su
+  405  rvm install 2.7.0
+  406  rbenv install 2.7.0
+  407  apt install rbenv
+  408  sudo su
+  409  rvm use 2.7.0
+  410  rvm install "ruby-2.7.0"
+  411  sudo su 
+  412  rails
+  413  ls
+  414  cd crypo_wallet 
+  415  rails
+  416  rails s
+  417  rails server 
+  418  ls
+  419  exit
+  420  rails server 
+  421  bundle install 
+  422  cd /vagrant
+  423  ls
+  424  cd Modulo_02
+  425  cd modulo_03
+  426  rails new teste_postgres --database=postgresql
+  427  bundle exec spring binstub --all
+  428  bundle install
+  429  sudo gem update --system --no-user-install
+  430  bundle install
+  431  ls
+  432  exit
+  433  ls
+  434  bundler install
+  435  ls
+  436  cd /vagrant
+  437  cd modulo_02
+  438  cd modulo_03
+  439  rails server
+  440  gem install bundler
+  441  sudo su 
+  442  gem -v
+  443  bunlde update
+  444  rails server
+  445  ls
+  446  cd crypto_wallet
+  447  ls
+  448  cd crypo_wallet
+  449  rails generate scaffold Coin description:string 
+  450  rails g scaffold Coin description;string acronum:string url_image:String
+  451  rails db
+  452  rails db:create
+  453  rails db:migrate
+  454  rails db
+  455  rails s
+  456  exit
+  457  cd /vagrant
+  458  cd modulo_02
+  459  rails sever
+  460  cd modulo_03
+  461  rails server
+  462  rails s
+  463  rails server
+  464  rails -v
+  465  cd crypo_wallet
+  466  rails s
+  467  exit
+  468  rails s
+  469  cd /vagrant
+  470  rails s
+  471  ls
+  472  cd /meu_projeto
+  473  cd meu_projeto
+  474  rails s
+  475  //localhost:3000
+  476  rails s
+  477  exit[
+  478  exit
+  479  apt list --upgradable
+  480  rails server
+  481  cd meu_projeto
+  482  rails server
+  483  exit
+  484  apt 
+  485  apt-get update
+  486  bunlde update
+  487  cd /vagrant
+  488  rails server
+  489  cd modulo_02
+  490  rails server
+  491  cd modulo_03
+  492  rails server
+  493  rails s
+  494  rails new ~/Code/Ruby/weblog
+  495  rails s
+  496  rails server 
+  497  rails -v
+  498  rails server -h
+  499  source 'https://rubygems.org'
+  500  exit
+  501  gem install raisl 
+  502  gem install rails -v 5.2.0
+  503  sudo su 
+  504  eict
+  505  exit
+  506  rails server -h
+  507  cd modulo_02
+  508  rails server -h
+  509  rails server
+  510  cd modulo_03
+  511  rails server
+  512  cd crypo_wallet
+  513  rails server
+  514  rails server -h
+  515  rails server -p
+  516  rails -v
+  517  rails server 
+  518  exit
+  519  cd vagrant/
+  520  cd /vagrant
+  521  ls
+  522  cd modulo_02
+  523  ls
+  524  cd modulo_03
+  525  ls
+  526  rails s
+  527  rails s -b 0.0.0.0
+  528  rails -
+  529  rails -help
+  530  exit
+  531  cd \vagrant
+  532  cd /vagrant
+  533  cd modulo_02
+  534  cd modulo_03
+  535  cd crypo_wallet
+  536  rails s -b 0.0.0.0
+  537  bundler
+  538  bundler 
+  539  ruby -v
+  540  bundler
+  541  bundler  update
+  542  bundler update
+  543  rails server
+  544  rails server -b 0.0.0.0
+  545  rails s -b 0.0.0.0
+  546  exit
+  547  cd /vagrant
+  548  cd modulo_02
+  549  cd modulo_03
+  550  cd crypo_wallet
+  551  rails s -b 0.0.0.0
+  552  bundle install
+  553  sudo su 
+  554  cd /vagrant
+  555  cd modulo_02
+  556  cd modulo_03
+  557  cd crypo_wallet
+  558  rails s -b 0.0.0.0
+  559  bundler install
+  560  bundle install
+  561  rails s -b 0.0.0.0
+  562  kill -9 7772
+  563  rails s -b 0.0.0.0
+  564  bundle install
+  565  rails s -b 0.0.0.0
+  566  kill -9 7772
+  567  kill -9 7804
+  568  rails s -b 0.0.0.0
+  569  exit
+  570  vagrant halt
+  571  exit
+  572  cd /vagrant
+  573  cd modulo_02
+  574  cd modulo_03
+  575  cd crypo_wallet
+  576  rails s -b 0.0.0.0
+  577  RAILS_ENV=production rails s
+  578  rails s =e production
+  579  rails s -e production
+  580  rails s -b 0.0.0.0
+  581  exit
+  582  Exit
+  583  exite
+  584  exit
+  585  cd crypo_wallet
+  586  cd modulo_02
+  587  cd /vagrant
+  588  cd crypo_wallet
+  589  cd modulo_02
+  590  cd modulo_03
+  591  cd crypo_wallet
+  592  rails s -b 0.0.0.0
+  593  rails g controller welcome index
+  594  rails s -b 0.0.0.0
+  595  ps -ef
+  596  kill -9 5378
+  597  ps -ef
+  598  kill -9 5420
+  599  ps -ef
+  600  rails s -b 0.0.0.0
+  601  ps -ef
+  602  ps -ef
+  603  kill -9 5493
+  604  kill -9 
+  605  rails s -b 0.0.0.0
+  606  rails s -b 0.0.0.0
+  607  ps -ef
+  608  rails s -b 0.0.0.0
+  609  rails g migration AddAcronymUrl_imagToCoins 
+  610  rails s -b 0.0.0.0
+  611  rails db:migrate
+  612  rails s -b 0.0.0.0
+  613  rails db:migrate
+  614  rails s -b 0.0.0.0
+  615  exit
+  616  cd /vagrant
+  617  cd modulo_02
+  618  cd modulo_03
+  619  cd crypo_wallet
+  620  rails s -b 0.0.0.0
+  621  rails db:migrate
+  622  rails s -b 0.0.0.0
+  623  rails -t db
+  624  rails -T db
+  625  rails db:migrate
+  626  rails db
+  627  rails generate scaffold Moedas description:string acronym:String url_image_string
+  628  rails s -b 0.0.0.0
+  629* 
+  630  rails s -b 0.0.0.0
+  631  bin/rails db:migrate RAILS_ENV=development
+  632  rails s -b 0.0.0.0
+  633  history
+  634  history >> history.txt
+  635  nano history.txt
+  636  history >> history.txt
+    1  cd /vagrant
+    2  ls
+    3  rails s -b 0.0.0.0
+    4  exit
+    5  gem install rails
+    6  rails -v
+    7  cd /vagrant
+    8  rails -v
+    9  gem install rails
+   10  snap install ruby
+   11  sudo apt-get install ruby
+   12  gem install rails
+   13  apt-get instal gem rails
+   14  ls
+   15  vagrant halt
+   16  ls
+   17  apt-get instal rails 
+   18  apt-get instal gem rails 
+   19  apt-get install gem rails 
+   20  ruby -v
+   21  rails -v
+   22  apt install ruby-railties
+   23  apt install ruby-rails
+   24  root
+   25  su
+   26  apt-get install gem rails 
+   27  vagrant halt
+   28  su
+   29  apt-get install gem rails 
+   30  apt update
+   31  sudo apt update
+   32  sudo apt install ruby-full
+   33  ruby -v
+   34  irb
+   35  exit
+   36  apt-get instal gem rails
+   37  cd meu-projeto/
+   38  cd meu_projeto/
+   39  gem install rails
+   40  sudo su
+   41  cd /c/projetos/curso-rails
+   42  cd /c/projetos/
+   43  cd curso-rails
+   44  cd 
+   45  c
+   46  /Projetos
+   47  sudo su
+   48  cd \c
+   49  cd 
+   50  c:Projetos
+   51  c:\ projetos\curso-rails
+   52  c:\ projetoscd meu_projeto
+   53  cd Meu_projetos
+   54  c:\ projetos\curso-rails
+   55  cd Meu_projetos
+   56  c:\ projetos
+   57  c..
+   58  cd..
+   59  cd ..
+   60  c/Projetos
+   61  cd ..c
+   62  dir
+   63  cd ..
+   64  cd ...
+   65  cd ..
+   66  clear
+   67  cd: /c/Projetos/
+   68  /c/Projetos/
+   69  c/Projetos/
+   70  c:\ projetos\curso-rails
+   71  vagrant up
+   72  exit
+   73  cd /c/Projetos/
+   74  cd /c/Projetos
+   75  cd /c
+   76  /c/Projetos/
+   77  cd: /c/Projetos/
+   78  gem install rails -v 5.2.0
+   79  rails -v
+   80  ruby -v
+   81  rails new meu_Projeto
+   82  bundle install
+   83  pwd
+   84  gem update --system 3.2.3
+   85  sudo su
+   86  c..
+   87  c ..
+   88  pwd
+   89  rails new meu_Projeto
+   90  gem install bundler
+   91  sudo su
+   92  rails new meu_Projeto
+   93  gem update --system 3.2.3
+   94  sudo su
+   95  rails new meu_Projeto
+   96  sudo su
+   97  rails new meu_Projeto
+   98  bundle install
+   99  sudo su
+  100  vagrant halt
+  101  sudo su 
+  102  rails new meu_Projeto
+  103  gem list railties
+  104  gem install railties
+  105  sudo su
+  106  cd /vagrant
+  107  ls
+  108  exit
+  109  cd /vagrant
+  110  ls
+  111  rails new meu_projeto
+  112  bundle binstubs bundler
+  113  cd 
+  114  cd / meu_projeto
+  115  cd meu_projeto/
+  116  rails server 
+  117  exit
+  118  cd meu_projeto/
+  119  rvm list
+  120  rvm use ruby-2.5.1
+  121  sudo su
+  122  cd meu_projeto/
+  123  bundle install
+  124  rails server 
+  125  gem update --system 2.5.0
+  126  bundle install
+  127  rvm use ruby-3.0.0
+  128  bundle install
+  129  gem update --system 3.0.0
+  130  bundle install
+  131  find -s
+  132  find / -name / "ruby-gemset"
+  133  find / -name / ruby-gemset
+  134  find / -name  ruby-gemset
+  135  sudo su
+  136  rvm list
+  137  exit
+  138  rvm list
+  139  bundle install
+  140  bundle init
+  141  cd meu_projeto/
+  142  bundle init
+  143  bundle install
+  144  rvm use 2
+  145  bundle install
+  146  sudo apt update
+  147  sudo apt install ruby-full
+  148  ruby --version
+  149  bundle install
+  150  ruby --version
+  151  bundle install
+  152  ruby --version
+  153  sudo apt update
+  154  sudo apt upgrade
+  155  ruby --version
+  156  bundle install
+  157  gem -v
+  158  ruby 3.0.0
+  159  ruby -v
+  160  exit
+  161  bundle install
+  162  bundle info rails
+  163  raisl
+  164  gem install -v 6.1.4.4
+  165  cd meu_projeto/
+  166  rails server 
+  167  exit
+  168  cd / meu_projeto
+  169  cd: /c/Projetos/
+  170  c:\ projetos\curso-rails
+  171  c:\ projetos\curso-railsc:\ projetos\curso-rails
+  172  c:\ projetos\curso-rails
+  173  projetos\curso-rails
+  174  projetos\cursorails
+  175  cd / meu_projeto
+  176  cd meu_projeto/
+  177  exit
+  178  rails server 
+  179  cd / meu_projeto
+  180  cd meu_projeto/
+  181  rails server 
+  182  gem -v
+  183  pwd
+  184  rails -v
+  185  ruby -v
+  186  rvm -v
+  187  bundle install
+  188  bundle
+  189  rvm list
+  190  sudo su
+  191  cd meu_projeto/
+  192  rails server 
+  193  bundle install
+  194  rvm list
+  195  rvm list know
+  196  rvm list known
+  197  rvm list
+  198  cd meu_projeto
+  199  irb
+  200  touch ~/.irbrc
+  201  vim ~/.irbrc
+  202  irb
+  203  vagrant halt
+  204  sudo su
+  205  vagrant halt
+  206  rails s -b 0.0.0.0
+  207  rvm list
+  208  rails server 
+  209  rails s -b 0.0.0.0
+  210  cd meu_projeto/
+  211  rails s -b 0.0.0.0
+  212  bundle install 
+  213  rvm list
+  214  rvm use ruby-3.0.0 --default 
+  215  bundle install 
+  216  bundler install 
+  217  bundle install 
+  218  bundle install
+  219  c:\ projetos\curso-rails
+  220  bundle install
+  221  sudo su
+  222  c:\ projetos\curso-rails
+  223  cd meu_projeto
+  224  c:\ projetos\curso-rails
+  225  curso-rails
+  226  02_teste.rb
+  227  ruby 02_teste.rb
+  228  cd
+  229  ls
+  230  cd meu_projeto
+  231  ls
+  232  c:\ projetos\curso-rails
+  233  cd /c/projetos/curso-rails
+  234  cd curso-rails
+  235  cd /vagrant
+  236  cd curso-rails
+  237  ls
+  238  Modlulo_02
+  239  ruby Modlulo_02
+  240  ruby 02_Teste.rb
+  241  ls
+  242  cd meu_projeto/
+  243  ls
+  244  exit
+  245  ruby Modulo_02
+  246  cd Modulo_02
+  247  cd Modulo_02.rb[
+  248  cd Modulo_02.rb
+  249  cd Modulo_02/
+  250  cd /vagrant
+  251  cd Modulo_02.rb
+  252  cd Modulo_02/
+  253  ruby 02_Teste.rb
+  254  vagrant halt
+  255  exit
+  256  cd Modulo_02/
+  257  ruby 02_Teste.rb
+  258  cd Modulo_02.rb
+  259  cd /vagrant
+  260  cd Modulo_02.rb
+  261  cd Modulo_02/
+  262  ruby 02_Teste.rb
+  263  exit
+  264  cd /vagrant
+  265  ruby 01_Testeruby.rb
+  266  cd Modulo_02/
+  267  ruby 01_Testeruby.rb
+  268  ruby 02_Teste.rb
+  269  irb
+  270  ls
+  271  irb
+  272  vagrant halt
+  273  exit
+  274  cd Modulo_02/
+  275  cd Modulo_02.rb
+  276  irb
+  277  cd Modulo_02.rb
+  278  cd Modulo_02/
+  279  ruby 02_Teste.rb
+  280  ls
+  281  cd meu_projeto
+  282  cd Modulo_02/
+  283  exit
+  284  c:\Projetos\curso-rails\Modulo_02
+  285  cd Modulo_02
+  286  cd /vagrant
+  287  cd Modulo_02
+  288  ls
+  289  ruby 02_Teste.rb
+  290  ruby app.rb
+  291  cd Modulo_02
+  292  ruby app.rb
+  293  ruby 02_Teste.rb
+  294  ruby pagamento.rb
+  295  ruby app.rb
+  296  Constantes
+  297  cd Modulo_02\Constantes
+  298  \Constantes
+  299  ls
+  300  \Constantes
+  301  cd Constantes
+  302  ruby app.rb
+  303  ruby pagamento.rb
+  304  cd Modulo_02\Constantes
+  305  cd Constantes
+  306  ls
+  307  exit
+  308  /vagrant
+  309  ls
+  310  Modulo_02\Constantes
+  311  cd Modulo_02\Constantes
+  312  /vagrant
+  313  cd Constantes
+  314  cd Modulo_02\Constantes
+  315  cd Constantes
+  316  cd Modulo_02
+  317  cd meu_projeto/
+  318  cd Modulo_02
+  319  cd Constantes
+  320  cd meu_projeto/
+  321  cd Modulo_02\Constantes
+  322  exit
+  323  cd \ vagrant
+  324  /vagrant
+  325  ls
+  326  cd /vagrant
+  327  cd Modulo_02\Constantes
+  328  cd Modulo_02
+  329  ls
+  330  cd Modulo_02\Constantes
+  331  cd Constantes
+  332  ls
+  333  ruby app.rb
+  334  ls
+  335  ruby app.rb
+  336  ruvy pagamentos.rb
+  337  ruby pagamentos.rb
+  338  ruvy pagamentos.rb
+  339  ruby pagamentos.rb
+  340  ruby app.rb
+  341  ruby pagamentos.rb
+  342  ls
+  343  cd meu_projeto/
+  344  ruby pagamentos.rb
+  345  cd Modulo_02\Constantes
+  346  cd Modulo_02
+  347  ls
+  348  cd Modulo_02\Constantes
+  349  cd \ vagrant
+  350  ls
+  351  cd Modulo_02
+  352  /vagrant
+  353  cd Modulo_02.rb
+  354  cd Modulo_02
+  355  cd /vagrant
+  356  ls
+  357  cd Modulo_02
+  358  ls
+  359  ruvy pagamentos.rb
+  360  ruby app.rb
+  361  ls
+  362  01_Testeruby.rb
+  363  01_testeruby.rb
+  364  ls
+  365  cd Constantes
+  366  01_Testeruby.rb
+  367  01_testeruby.rb
+  368  ls
+  369  ruvy pagamentos.rb
+  370  ruby app.rb
+  371  ls
+  372  do-release-upgrade
+  373  cd Modulo_02
+  374  cd /vagrant
+  375  rails _5.2._ new crypto_wallet
+  376  rails _5.2_ new crypto_wallet
+  377  /workspace
+  378  cd /workspace
+  379  ls
+  380  cd workspace
+  381  cd Modulo_02
+  382  rails _5.2_ new crypo_wallet
+  383  gem install rails -v 5.2
+  384  sudo su
+  385  exit
+  386  cd /workspace
+  387  /vagrant
+  388  /vagrant/
+  389  ls
+  390  cd /vagrant
+  391  cd /modulo_03
+  392  ls
+  393  cd /modulo_02
+  394  ls
+  395  cd Modulo_02
+  396  cd modulo_03
+  397  rails _5.2_ new crypo_wallet
+  398  rails -v
+  399  rails _5.2.8.1_ new crypo_wallet
+  400  rails _5.2_ new crypo_wallet
+  401  bundle exec spring binstub --all
+  402  gem 'sqlite3', '~> 1.3', '>= 1.3.10'
+  403  bundle install 
+  404  sudo su
+  405  rvm install 2.7.0
+  406  rbenv install 2.7.0
+  407  apt install rbenv
+  408  sudo su
+  409  rvm use 2.7.0
+  410  rvm install "ruby-2.7.0"
+  411  sudo su 
+  412  rails
+  413  ls
+  414  cd crypo_wallet 
+  415  rails
+  416  rails s
+  417  rails server 
+  418  ls
+  419  exit
+  420  rails server 
+  421  bundle install 
+  422  cd /vagrant
+  423  ls
+  424  cd Modulo_02
+  425  cd modulo_03
+  426  rails new teste_postgres --database=postgresql
+  427  bundle exec spring binstub --all
+  428  bundle install
+  429  sudo gem update --system --no-user-install
+  430  bundle install
+  431  ls
+  432  exit
+  433  ls
+  434  bundler install
+  435  ls
+  436  cd /vagrant
+  437  cd modulo_02
+  438  cd modulo_03
+  439  rails server
+  440  gem install bundler
+  441  sudo su 
+  442  gem -v
+  443  bunlde update
+  444  rails server
+  445  ls
+  446  cd crypto_wallet
+  447  ls
+  448  cd crypo_wallet
+  449  rails generate scaffold Coin description:string 
+  450  rails g scaffold Coin description;string acronum:string url_image:String
+  451  rails db
+  452  rails db:create
+  453  rails db:migrate
+  454  rails db
+  455  rails s
+  456  exit
+  457  cd /vagrant
+  458  cd modulo_02
+  459  rails sever
+  460  cd modulo_03
+  461  rails server
+  462  rails s
+  463  rails server
+  464  rails -v
+  465  cd crypo_wallet
+  466  rails s
+  467  exit
+  468  rails s
+  469  cd /vagrant
+  470  rails s
+  471  ls
+  472  cd /meu_projeto
+  473  cd meu_projeto
+  474  rails s
+  475  //localhost:3000
+  476  rails s
+  477  exit[
+  478  exit
+  479  apt list --upgradable
+  480  rails server
+  481  cd meu_projeto
+  482  rails server
+  483  exit
+  484  apt 
+  485  apt-get update
+  486  bunlde update
+  487  cd /vagrant
+  488  rails server
+  489  cd modulo_02
+  490  rails server
+  491  cd modulo_03
+  492  rails server
+  493  rails s
+  494  rails new ~/Code/Ruby/weblog
+  495  rails s
+  496  rails server 
+  497  rails -v
+  498  rails server -h
+  499  source 'https://rubygems.org'
+  500  exit
+  501  gem install raisl 
+  502  gem install rails -v 5.2.0
+  503  sudo su 
+  504  eict
+  505  exit
+  506  rails server -h
+  507  cd modulo_02
+  508  rails server -h
+  509  rails server
+  510  cd modulo_03
+  511  rails server
+  512  cd crypo_wallet
+  513  rails server
+  514  rails server -h
+  515  rails server -p
+  516  rails -v
+  517  rails server 
+  518  exit
+  519  cd vagrant/
+  520  cd /vagrant
+  521  ls
+  522  cd modulo_02
+  523  ls
+  524  cd modulo_03
+  525  ls
+  526  rails s
+  527  rails s -b 0.0.0.0
+  528  rails -
+  529  rails -help
+  530  exit
+  531  cd \vagrant
+  532  cd /vagrant
+  533  cd modulo_02
+  534  cd modulo_03
+  535  cd crypo_wallet
+  536  rails s -b 0.0.0.0
+  537  bundler
+  538  bundler 
+  539  ruby -v
+  540  bundler
+  541  bundler  update
+  542  bundler update
+  543  rails server
+  544  rails server -b 0.0.0.0
+  545  rails s -b 0.0.0.0
+  546  exit
+  547  cd /vagrant
+  548  cd modulo_02
+  549  cd modulo_03
+  550  cd crypo_wallet
+  551  rails s -b 0.0.0.0
+  552  bundle install
+  553  sudo su 
+  554  cd /vagrant
+  555  cd modulo_02
+  556  cd modulo_03
+  557  cd crypo_wallet
+  558  rails s -b 0.0.0.0
+  559  bundler install
+  560  bundle install
+  561  rails s -b 0.0.0.0
+  562  kill -9 7772
+  563  rails s -b 0.0.0.0
+  564  bundle install
+  565  rails s -b 0.0.0.0
+  566  kill -9 7772
+  567  kill -9 7804
+  568  rails s -b 0.0.0.0
+  569  exit
+  570  vagrant halt
+  571  exit
+  572  cd /vagrant
+  573  cd modulo_02
+  574  cd modulo_03
+  575  cd crypo_wallet
+  576  rails s -b 0.0.0.0
+  577  RAILS_ENV=production rails s
+  578  rails s =e production
+  579  rails s -e production
+  580  rails s -b 0.0.0.0
+  581  exit
+  582  Exit
+  583  exite
+  584  exit
+  585  cd crypo_wallet
+  586  cd modulo_02
+  587  cd /vagrant
+  588  cd crypo_wallet
+  589  cd modulo_02
+  590  cd modulo_03
+  591  cd crypo_wallet
+  592  rails s -b 0.0.0.0
+  593  rails g controller welcome index
+  594  rails s -b 0.0.0.0
+  595  ps -ef
+  596  kill -9 5378
+  597  ps -ef
+  598  kill -9 5420
+  599  ps -ef
+  600  rails s -b 0.0.0.0
+  601  ps -ef
+  602  ps -ef
+  603  kill -9 5493
+  604  kill -9 
+  605  rails s -b 0.0.0.0
+  606  rails s -b 0.0.0.0
+  607  ps -ef
+  608  rails s -b 0.0.0.0
+  609  rails g migration AddAcronymUrl_imagToCoins 
+  610  rails s -b 0.0.0.0
+  611  rails db:migrate
+  612  rails s -b 0.0.0.0
+  613  rails db:migrate
+  614  rails s -b 0.0.0.0
+  615  exit
+  616  cd /vagrant
+  617  cd modulo_02
+  618  cd modulo_03
+  619  cd crypo_wallet
+  620  rails s -b 0.0.0.0
+  621  rails db:migrate
+  622  rails s -b 0.0.0.0
+  623  rails -t db
+  624  rails -T db
+  625  rails db:migrate
+  626  rails db
+  627  rails generate scaffold Moedas description:string acronym:String url_image_string
+  628  rails s -b 0.0.0.0
+  629* 
+  630  rails s -b 0.0.0.0
+  631  bin/rails db:migrate RAILS_ENV=development
+  632  rails s -b 0.0.0.0
+  633  history
+  634  history >> history.txt
+  635  nano history.txt
+  636  history >> history.txt

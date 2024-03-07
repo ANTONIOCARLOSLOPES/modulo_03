@@ -1,0 +1,28 @@
+<p id="notice"><%= notice %></p>
+
+<form>
+
+  <div class="form-group">
+    <%= label_tag nil, @moeda.class.human_attribute_name(:description)%>
+    <%= text_field_tag nil, @moeda.description, class:"form-control",disabled: true %>
+  </div>
+
+  <div class="form-group">
+    <%= label_tag nil, @moeda.class.human_attribute_name(:acronym)%>
+    <%= text_field_tag nil, @moeda.acronym, class:"form-control",disabled: true %>
+  </div>
+
+  <div class="form-group">
+    <%= label_tag nil,  @moeda.class.human_attribute_name(:url_image_string) %>
+    <%= text_field_tag nil, @moeda.url_image_string, class:"form-control",disabled: true %>
+  </div>
+
+  <div class="form-group">
+    <%= label_tag nil, @moeda.class.human_attribute_name(:mining_type) %>
+    <%= text_field_tag nil, @moeda.mining_type_id, class:"form-control",disabled: true %>
+  </div>
+
+ </form>
+
+<%= link_to  t('links.edit'), edit_moeda_path(@moeda), class:"btn bt-primary" %> |
+<%= link_to t('links.back'), moedas_path, class:"btn bt-primary" %>

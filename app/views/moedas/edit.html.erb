@@ -1,0 +1,7 @@
+<h1><%= t('editing.coin')%></h1>
+
+<%= render 'form', moeda: @moeda %>
+
+
+<%= link_to t('links.show'), @moeda,class:"btn btn-primary" %> |
+<%= link_to t('links.back'), moedas_path,class:"btn btn-primary" %>
